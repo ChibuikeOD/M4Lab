@@ -1,0 +1,14 @@
+V:\Downloads\M4Lab\M4Lab\bin\Debug\net8.0\M4Lab.exe
+V:\Downloads\M4Lab\M4Lab\bin\Debug\net8.0\M4Lab.deps.json
+V:\Downloads\M4Lab\M4Lab\bin\Debug\net8.0\M4Lab.runtimeconfig.json
+V:\Downloads\M4Lab\M4Lab\bin\Debug\net8.0\M4Lab.dll
+V:\Downloads\M4Lab\M4Lab\bin\Debug\net8.0\M4Lab.pdb
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.GeneratedMSBuildEditorConfig.editorconfig
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.AssemblyInfoInputs.cache
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.AssemblyInfo.cs
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.csproj.CoreCompileInputs.cache
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.dll
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\refint\M4Lab.dll
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.pdb
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\M4Lab.genruntimeconfig.cache
+V:\Downloads\M4Lab\M4Lab\obj\Debug\net8.0\ref\M4Lab.dll
